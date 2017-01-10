@@ -2,3 +2,4 @@
 This is my 1st commit
 adding changes manually
 THE quick brown fox jumped over the lazy dog back
+Es scheit in der Schweiz
